@@ -20,6 +20,12 @@ ssp.batch_proc(("This is the first bad test sentence",\
 ssp.file_proc("test_sentences.txt")
 ```
 
+SentiWordNet is included, however, should it change, replace the current SimpleSentiPy.txt document with the newest version of SentiWordNet and run the following command:
+```python
+python fileGen.py
+```
+which will produce a new data.pkl file, which is the actual data-file used for sentiment analysis.
+
 --------------------------------------------------
 ### What's Included ###
 * simpleSentiPy.py - The python script including the main SentimentAnalysis class
