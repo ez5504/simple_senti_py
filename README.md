@@ -8,7 +8,8 @@ The output values from this program range from -1 to 1, with -1 being very negat
 ----------------------------------------------
 ### Using SimpleSentiPy ###
 An example of the basic functionality of SimpleSentiPy.
-\code{.py}
+
+```python
 from simpleSentiPy import SentimentAnalysis
 
 ssp = SentimentAnalysis()
@@ -17,7 +18,7 @@ ssp.bigram_sent("This is another very good test sentence")
 ssp.batch_proc(("This is the first bad test sentence",\
   "This is hopefully a better test sentence")
 ssp.file_proc("test_sentences.txt")
-\endcode
+```
 
 --------------------------------------------------
 ### What's Included ###
