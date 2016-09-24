@@ -1,6 +1,6 @@
 SimpleSentiPy
 -------------
-###A Simple Sentiment Analysis Tool ###
+### A Simple Sentiment Analysis Tool ###
 SimpleSentiPy is a simplified sentiment analysis tool developed using Python. It utilizes the sentiment values provided by [SentiWordNet](http://sentiwordnet.isti.cnr.it/) as its basis. It does not currently contain methods to train the sentiment values. Instead, it takes average values from SentiWordNet and uses those to calculate Overall, Positive, Negative, and Objective sentiment value scores.
 
 The output values from this program range from -1 to 1, with -1 being very negative and 1 being very positive. All values are stored as floating point variables and are stored up to 4 decimal places.
