@@ -1,5 +1,4 @@
 LICENSE
-MANIFEST.in
 setup.cfg
 setup.py
 simple_senti_py/__init__.py
