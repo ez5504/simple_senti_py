@@ -17,7 +17,7 @@ from setuptools import setup
 setup(
   name = 'simple_senti_py',
   packages = ['simple_senti_py'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.1.1',
   description = 'A simple Sentiment Analysis library',
   author = 'Jacob Taylor',
   author_email = 'ez5504@gmail.com',
