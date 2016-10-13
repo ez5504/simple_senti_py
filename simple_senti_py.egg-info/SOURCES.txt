@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+setup.cfg
+setup.py
+simple_senti_py/__init__.py
+simple_senti_py/fileGen.py
+simple_senti_py/simpleSentiPy.py
+simple_senti_py/util.py
+simple_senti_py/wrapper.py
+simple_senti_py.egg-info/PKG-INFO
+simple_senti_py.egg-info/SOURCES.txt
+simple_senti_py.egg-info/dependency_links.txt
+simple_senti_py.egg-info/top_level.txt

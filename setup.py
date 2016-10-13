@@ -12,10 +12,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from distutils.core import setup
+#from distutils.core import setup
+from setuptools import setup
 setup(
-  name = 'SimpleSentiPy',
-  packages = ['SimpleSentiPy'], # this must be the same as the name above
+  name = 'simple_senti_py',
+  packages = ['simple_senti_py'], # this must be the same as the name above
   version = '0.1',
   description = 'A simple Sentiment Analysis library',
   author = 'Jacob Taylor',

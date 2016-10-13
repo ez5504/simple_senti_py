@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: simple-senti-py
+Version: 0.1
+Summary: A simple Sentiment Analysis library
+Home-page: https://github.com/ez5504/simple_senti_py
+Author: Jacob Taylor
+Author-email: ez5504@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/ez5504/simple_senti_py/tarball/0.1
+Description: UNKNOWN
+Keywords: sentiment,analysis,nlp
+Platform: UNKNOWN
